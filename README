@@ -1,0 +1,27 @@
+README
+Juan Andreas
+jandreas
+PA1
+
+Table of Contents:
+
+List.java
+ListClient.java
+Lex.java
+Makefile
+README
+
+File Descriptions:
+
+List.java = Provides the List ADT and manipulation functions.
+ListClient.java (provided) = A file that tests List.java.
+Lex.java = The main program that takes data from input files, sorts it, and prints into an output file.
+Makefile = creates jar file for Lex.java
+
+
+-compile by typing 'make'
+-clean class files by typing 'make clean'
+-run by typing 'Lex input_file output_file'
+
+Comments:
+Some command lines are commented out, I want to keep them there because it helped me trace out Lex.java while debugging. THEY ARE NOT PART OF THE PROGRAM FUNCTION.
